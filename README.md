@@ -3,12 +3,20 @@ Este es un repositorio personal para la clase de Sistemas Programables, mi nombr
 
 readme  
 blog
-  - [CO.2_AbnerPerales_CodeDevelopers](/blog/CO.2_AbnerPerales_CodeDevelopers.md)
-  - [C1.1_AbnerPerales_CodeDevelopers](/blog/C1.1_AbnerPerales_CodeDevelopers.md)
-  - [C1.2_ElectronicaBasica_circuitos](/blog/C1.2_ElectronicaBasica_circuitos.md)
+  - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
+  - [C1.1_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.1_AbnerPerales_CodeDevelopers.md)
+  - [C1.2_ElectronicaBasica_circuitos](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.2_ElectronicaBasica_circuitos.md)
+
+diagramas
+
+docs
+
+img
 
 
 
 
 
 [Repositorio de Abner Perales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales.git)
+
+**Elaborado por Abner Jesús Perales Niebla**

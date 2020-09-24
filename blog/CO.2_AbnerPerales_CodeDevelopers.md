@@ -43,6 +43,8 @@
 
 ![DiagramadeFlujo](../diagrams/Capas_IOT.drawio.png)
 
-:house: [Ir a inicio](../README.md)
+:house: [Ir a readme](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales.git)
 
-[Repositorio de Abner Perales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales.git)
+[Ver en repositorio](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
+
+**Elaborado por Abner Jesús Perales Niebla**
