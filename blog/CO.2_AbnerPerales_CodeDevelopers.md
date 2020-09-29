@@ -45,6 +45,6 @@
 
 :house: [Ir a readme](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales.git)
 
-[Ver en repositorio](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
+:page_with_curl: [Ver en repositorio](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
 
 **Elaborado por Abner Jesús Perales Niebla**
