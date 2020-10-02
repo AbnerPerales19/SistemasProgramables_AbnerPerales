@@ -2,6 +2,9 @@
 Este es un repositorio personal para la clase de Sistemas Programables, mi nombre es Abner Jesús Perales Niebla y les doy la bienvenida!
 
 readme  
+Actividad
+  - [A1.2.-Sensor_FotoResistivo](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/A1.2_Sensor_FotoResistivo.md)
+  
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
   - [C1.1_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.1_AbnerPerales_CodeDevelopers.md)
