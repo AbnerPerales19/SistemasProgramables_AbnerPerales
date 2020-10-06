@@ -10,6 +10,7 @@ blog
   - [C1.1_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.1_AbnerPerales_CodeDevelopers.md)
   - [C1.2_ElectronicaBasica_circuitos](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.2_ElectronicaBasica_circuitos.md)
   - [C1.3_CircuitoDivisorVoltaje](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.3_CircuitoDivisorVoltaje.md)
+  - [C1.4_Acondicionador_de_senal_AmOP](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.4_Acondicionador_de_senal_AmOP.md)
 
 diagramas
 
