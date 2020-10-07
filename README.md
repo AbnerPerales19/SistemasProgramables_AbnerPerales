@@ -11,6 +11,7 @@ blog
   - [C1.2_ElectronicaBasica_circuitos](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.2_ElectronicaBasica_circuitos.md)
   - [C1.3_CircuitoDivisorVoltaje](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.3_CircuitoDivisorVoltaje.md)
   - [C1.4_Acondicionador_de_senal_AmOP](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.4_Acondicionador_de_senal_AmOP.md)
+  - [C1.5_Tipos_de_sensores](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.5_Tipos_de_sensores.md)
 
 diagramas
 
