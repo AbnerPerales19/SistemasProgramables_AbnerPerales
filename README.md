@@ -4,6 +4,7 @@ Este es un repositorio personal para la clase de Sistemas Programables, mi nombr
 readme  
 Actividad
   - [A1.2.-Sensor_FotoResistivo](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.2.-Sensor_FotoResistivo.md)
+  - [A1.3_Tipos_Sensores_Comerciales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.3_Tipos_Sensores_Comerciales.md)
   
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
