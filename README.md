@@ -5,6 +5,7 @@ readme
 Actividad
   - [A1.2.-Sensor_FotoResistivo](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.2.-Sensor_FotoResistivo.md)
   - [A1.3_Tipos_Sensores_Comerciales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.3_Tipos_Sensores_Comerciales.md)
+  - [A1.4_Sensor_Temperatura_TMP36](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.4_Sensor_Temperatura_TMP36.md)
   
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
