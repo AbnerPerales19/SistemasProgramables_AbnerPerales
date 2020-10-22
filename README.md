@@ -15,6 +15,7 @@ blog
   - [C1.4_Acondicionador_de_senal_AmOP](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.4_Acondicionador_de_senal_AmOP.md)
   - [C1.5_Tipos_de_sensores](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C1.5_Tipos_de_sensores.md)
   - [C2.1_ActuadoresNeumaticosHidraulicos](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
+  - [C2.2_ActuadoresElectricos](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C2.2_ActuadoresElectricos.md)
 
 diagramas
 
