@@ -7,6 +7,7 @@ Actividad
   - [A1.3_Tipos_Sensores_Comerciales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.3_Tipos_Sensores_Comerciales.md)
   - [A1.4_Sensor_Temperatura_TMP36](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A1.4_Sensor_Temperatura_TMP36.md)
   - [A2.1_Tipos_actuadores_Comerciales](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A2.1_Tipos_actuadores_Comerciales.md)
+  - [A2.2_Circuito_temporizador_actuador](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A2.2_Circuito_temporizador_actuador.md)
   
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
