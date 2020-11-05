@@ -21,6 +21,7 @@ blog
   - [C2.3_CircuitoTemporizador555](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C2.3_CircuitoTemporizador555.md)
   - [C3.1_ArduinoIDE_SalidaDigital](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.1_ArduinoIDE_SalidaDigital.md)
   - [C3.2_ArduinoIDE_EntradaDigitalImpresionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
+  - [C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial.md)
 
 diagramas
 
