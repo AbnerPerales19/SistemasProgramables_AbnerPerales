@@ -24,6 +24,8 @@ blog
   - [C3.2_ArduinoIDE_EntradaDigitalImpresionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
   - [C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial.md)
   - [C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial.md)
+  - [C3.5_EvaluacionMicrocontroladores](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.5_EvaluacionMicrocontroladores.md)
+  - [C3.6_ArduinoIDE_ESP32_EntradaAnalogica](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.6_ArduinoIDE_ESP32_EntradaAnalogica.md)
 
 diagramas
 
