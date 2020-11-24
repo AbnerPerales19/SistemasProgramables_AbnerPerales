@@ -26,6 +26,7 @@ blog
   - [C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial.md)
   - [C3.5_EvaluacionMicrocontroladores](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.5_EvaluacionMicrocontroladores.md)
   - [C3.6_ArduinoIDE_ESP32_EntradaAnalogica](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.6_ArduinoIDE_ESP32_EntradaAnalogica.md)
+  - [C3.7_ArduinoIDE_ESP32_PWM](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.7_ArduinoIDE_ESP32_PWM.md)
 
 diagramas
 
