@@ -10,6 +10,7 @@ Actividad
   - [A2.2_Circuito_temporizador_actuador](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A2.2_Circuito_temporizador_actuador.md)
   - [A3.1_Arduino_SensorUltrasonico](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.1_Arduino_SensorUltrasonico.md)
   - [A3.2_ESP32_SensorTouch](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.2_ESP32_SensorTouch.md)
+  - [A3.3_ESP32_SensorTemperatura_DHT11](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.3_ESP32_SensorTemperatura_DHT11.md)
   
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
