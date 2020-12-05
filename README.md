@@ -11,7 +11,6 @@ Actividad
   - [A3.1_Arduino_SensorUltrasonico](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.1_Arduino_SensorUltrasonico.md)
   - [A3.2_ESP32_SensorTouch](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.2_ESP32_SensorTouch.md)
   - [A3.3_ESP32_SensorTemperatura_DHT11](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/A3.3_ESP32_SensorTemperatura_DHT11.md)
-  - [C4.1_ArduinoIDE_ESP32_Bluetooth](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/Actividad/C4.1_ArduinoIDE_ESP32_Bluetooth.md)
   
 blog
   - [CO.2_AbnerPerales_CodeDevelopers](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/CO.2_AbnerPerales_CodeDevelopers.md)
@@ -31,6 +30,7 @@ blog
   - [C3.6_ArduinoIDE_ESP32_EntradaAnalogica](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.6_ArduinoIDE_ESP32_EntradaAnalogica.md)
   - [C3.7_ArduinoIDE_ESP32_PWM](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.7_ArduinoIDE_ESP32_PWM.md)
   - [C3.8_ArduinoIDE_ESP32_SensorTouch](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.8_ArduinoIDE_ESP32_SensorTouch.md)
+  - [C4.1_ArduinoIDE_ESP32_Bluetooth](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C4.1_ArduinoIDE_ESP32_Bluetooth.md)
 
 diagramas
 
