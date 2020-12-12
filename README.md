@@ -32,6 +32,7 @@ blog
   - [C3.7_ArduinoIDE_ESP32_PWM](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.7_ArduinoIDE_ESP32_PWM.md)
   - [C3.8_ArduinoIDE_ESP32_SensorTouch](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C3.8_ArduinoIDE_ESP32_SensorTouch.md)
   - [C4.1_ArduinoIDE_ESP32_Bluetooth](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C4.1_ArduinoIDE_ESP32_Bluetooth.md)
+  - [C4.2_ArduinoIDE_ESP32_Wi-Fi](https://github.com/AbnerPerales19/SistemasProgramables_AbnerPerales/blob/master/blog/C4.2_ArduinoIDE_ESP32_Wi-Fi.md)
 
 diagramas
 
